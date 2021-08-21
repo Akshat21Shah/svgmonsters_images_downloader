@@ -40,7 +40,7 @@ Library used:
 
 - axios CDN : Axios is a promise-based HTTP client for node.js and the browser.
               It uses XMLHttpRequestes to fetch the data from the mentioned URL's i.e. API's.
-              Supports hte promise API.
+              Supports the promise API.
               Here we have used Axios to fetch the images from the mentioned URL using GET method.
 
 Directory:
