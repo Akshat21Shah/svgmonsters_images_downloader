@@ -46,11 +46,11 @@ Library used:
 Directory:
 
 Github Repository:-
-|-  svgmonsters
-    |-  index.html
-    |-  style.css
-    |-  app.js
-|-  README.md
+-  svgmonsters
+    -  index.html
+    -  style.css
+    -  app.js
+-  README.md
 
 Usage:
 
